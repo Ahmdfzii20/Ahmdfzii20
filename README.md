@@ -38,17 +38,6 @@ I am a Software Engineering (RPL) student passionate about backend development a
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Ahmdfzii20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmdfzii20&layout=compact&theme=tokyonight&hide_border=true" 
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img 
     src="https://streak-stats.demolab.com?user=Ahmdfzii20&theme=tokyonight&hide_border=true" 
     height="165"
   />
