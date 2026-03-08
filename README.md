@@ -46,19 +46,6 @@ I am a **Software Engineering (RPL) student** passionate about **backend develop
 
 </p>
 
----
-
-# 📊 Skill Progress
-
-| Skill | Progress |
-|------|---------|
-| PHP | ██████████░░░░ 70% |
-| Laravel | ████████░░░░░░ 60% |
-| JavaScript | ███████░░░░░░░ 50% |
-| MySQL | █████████░░░░░ 65% |
-| Git | ███████░░░░░░░ 50% |
-
----
 
 # 📊 GitHub Statistics
 
