@@ -1,4 +1,4 @@
-<h1 align="center">Ahmad Fauzi</h1>
+<h1 align="center">Hi 👋, I'm Ahmad Fauzi</h1>
 
 <p align="center">
   Software Engineering Student • Backend Developer • Indonesia
@@ -15,36 +15,60 @@
 
 ---
 
-## About Me
+# 👨‍💻 About Me
 
-I am a Software Engineering (RPL) student passionate about backend development and building real-world applications.
+I am a **Software Engineering (RPL) student** passionate about **backend development** and building **real-world applications**.
 
-- 🎓 Focused on Software Engineering  
+- 🎓 Software Engineering Student  
 - 💻 Backend Development Enthusiast  
-- 🌱 Currently improving PHP & JavaScript  
-- 📍 Based in Indonesia  
+- 🌱 Currently learning **Laravel & JavaScript**  
+- 🚀 Interested in **Web Apps & System Development**  
+- 📍 Indonesia  
 
 ---
 
-## Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,github,vscode,javascript,laravel,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,javascript,mysql,git,github,vscode" />
 </p>
 
 ---
 
-## GitHub Analytics
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Ahmdfzii20&theme=tokyonight&hide_border=true" 
-    height="165"
-  />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahmdfzii20&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmdfzii20&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmdfzii20&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ahmdfzii20/Ahmdfzii20/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 💡 Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=false" />
+⭐ From <b>Ahmad Fauzi</b>
 </p>
