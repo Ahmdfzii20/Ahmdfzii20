@@ -80,17 +80,6 @@ I am a **Software Engineering (RPL) student** passionate about **backend develop
 
 </p>
 
----
-
-# 👀 Visitor Counter
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Ahmdfzii20&label=Profile%20Views&color=orange&style=for-the-badge"/>
-
-</p>
-
----
 
 # 🐍 Contribution Snake
 
