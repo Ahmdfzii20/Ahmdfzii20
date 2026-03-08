@@ -44,7 +44,7 @@ I am a **Software Engineering (RPL) student** passionate about **backend develop
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,javascript,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,javascript,mysql,git,github,vscode,Laragon"/>
 
 </p>
 
