@@ -15,6 +15,7 @@ Software Engineering Student • Backend Developer • Indonesia
 # 🌐 Connect With Me
 
 <p align="center">
+
 <a href="https://www.instagram.com/ahmdfzii20_">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
@@ -22,6 +23,7 @@ Software Engineering Student • Backend Developer • Indonesia
 <a href="mailto:fauzi200505@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
 
 ---
@@ -46,14 +48,15 @@ I am a **Software Engineering (RPL) student** passionate about **backend develop
 
 </p>
 
+---
 
 # 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahmdfzii20&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ahmdfzii20&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmdfzii20&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ahmdfzii20&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </p>
 
@@ -63,7 +66,7 @@ I am a **Software Engineering (RPL) student** passionate about **backend develop
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmdfzii20&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmdfzii20&theme=tokyo-night&hide_border=true&cache_seconds=1800"/>
 
 </p>
 
