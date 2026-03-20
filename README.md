@@ -19,7 +19,7 @@ I am a **Software Engineering (RPL)** student passionate about **backend develop
 
 - 🎓 **Education:** Software Engineering Student
 - 🌱 **Currently Learning:** Laravel, JavaScript & AI Integration
-- 🚀 **Focus:** Web Apps & System Development
+- 🚀 **Focus:** Mobile Development & Web Development
 - 📍 **Location:** Indonesia
 
 ---
