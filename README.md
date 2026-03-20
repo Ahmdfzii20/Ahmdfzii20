@@ -26,7 +26,7 @@ I am a **Software Engineering (RPL)** student passionate about **backend develop
 
 ### 🚀 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,javascript,mysql,git,github,vscode,laragon" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,javascript,mysql,git,github,vscode,laragon,Dart,Flutter" />
 </p>
 
 ---
