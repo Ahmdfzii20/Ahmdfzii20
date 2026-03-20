@@ -69,7 +69,9 @@ I am a **Software Engineering (RPL)** student passionate about **backend develop
 ### 🌐 Connect With Me
 <p align="left">
   <a href="https://www.instagram.com/ahmdfzii20_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:fauzi200505@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:fauzi200505@gmail.com?subject=Ketertarikan%20Profil&body=Halo%20Ahmad,%20Saya%20tertarik%20dengan%20Anda.">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 <p align="center">
