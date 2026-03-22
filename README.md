@@ -33,7 +33,7 @@ I am a **Software Engineering (RPL)** student passionate about **backend develop
 
 <p align="center">
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,flutter" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react" />
 </p>
 
 <p align="center">
