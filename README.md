@@ -28,12 +28,12 @@ I am a **Software Engineering (RPL)** student passionate about **backend develop
 
 <p align="center">
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,nodejs" />
 </p>
 
 <p align="center">
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,flutter" />
 </p>
 
 <p align="center">
