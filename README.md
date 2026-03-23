@@ -27,25 +27,12 @@ I am a **Software Engineering (RPL)** student passionate about **backend develop
 ### 🚀 Tech Stack
 
 <p align="center">
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,nodejs" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,nodejs,html,css,javascript,bootstrap" />
 </p>
 
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react" />
+  <img src="https://skillicons.dev/icons?i=react,dart,flutter,git,github,vscode,laragon" />
 </p>
-
-<p align="center">
-  <!-- Mobile -->
-  <img src="https://skillicons.dev/icons?i=dart,flutter" />
-</p>
-
-<p align="center">
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,laragon" />
-</p>
----
 
 ### 📊 GitHub Stats
 <p align="center">
