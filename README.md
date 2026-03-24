@@ -15,7 +15,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am a **Software Engineering (RPL)** student passionate about **backend development** and building robust systems.
+I am a **Software Engineering (RPL)** student passionate about **Web development & Mobile Development** and building robust systems.
 
 - 🎓 **Education:** Software Engineering Student
 - 🌱 **Currently Learning:** Laravel, JavaScript & AI Integration
