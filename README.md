@@ -31,7 +31,7 @@ I am a **Software Engineering (RPL)** student passionate about **Web development
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,dart,flutter,git,github,vscode,laragon,java" />
+  <img src="https://skillicons.dev/icons?i=react,dart,flutter,git,github,vscode,laragon,java,firebase" />
 </p>
 
 ### 📊 GitHub Stats
