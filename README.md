@@ -34,16 +34,6 @@ I am a **Software Engineering (RPL)** student passionate about **Web development
   <img src="https://skillicons.dev/icons?i=react,dart,flutter,git,github,vscode,laragon,java,firebase" />
 </p>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ahmdfzii20&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Ahmad Stats" height="150" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ahmdfzii20&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Langs" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmdfzii20&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### 🐍 Contribution Snake
